@@ -2,7 +2,7 @@
 day1 github workshop for cherryaruna
 ## basic linux commands
 - pwd
-- cd
+- cd path
 - ls
 - ls -a
 - mkdir folder name
